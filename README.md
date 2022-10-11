@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Connect with me:
+https://www.linkedin.com/in/guillermoluciani/
+
+Languages and Tools:
+javascript html5 css3 bootstrap react reactnative redux sass babel nodejs express git postgresql postman mocha typescript
+
+
 <!--
 **gluciani73/gluciani73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
