@@ -1,4 +1,11 @@
-### Hi there 👋 I am Guillermo Luciani!
+## Hi there 👋 I am  [Guillermo Luciani](https://www.linkedin.com/in/guillermoluciani/)!
+
+
+### 💫 About Me:
+I am a newly Full Stack Developer. 
+Previously I was graduated as bachelor in business administration and worked in several companies and industries, and a few months ago I've decided to turn to my Tech profile, which was always present! .
+Now eager to start applying this new mix of skills and knowledge to the IT industry.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
