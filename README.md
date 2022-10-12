@@ -9,7 +9,7 @@ Now eager to start applying this new mix of skills and knowledge to the IT indus
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/guillermoluciani/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="https://www.linkedin.com/in/guillermoluciani/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/guillermoluciani/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="https://www.linkedin.com/in/guillermoluciani/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,6 +21,7 @@ Now eager to start applying this new mix of skills and knowledge to the IT indus
 <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
+<a href="https://sequelize.org/" target="_blank"> <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
